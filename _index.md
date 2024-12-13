@@ -11,9 +11,10 @@ header:
     - label: "Contact Us"
       url: "/"
   caption: # "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "At ZiryTech, we are your trusted partner in navigating the ever-evolving digital landscape. As a dedicated technology consulting company, we empower businesses, communities, and individuals through innovative solutions, education, and engagement. Though we are a small team, our ambitions are global, and our commitment to excellence drives everything we do."
+excerpt: "**Welcome to Ziry Technology!** At ZiryTech, we are your trusted partner in navigating the ever-evolving digital landscape. As a dedicated technology consulting company, we empower businesses, communities, and individuals through innovative solutions, education, and engagement. Though we are a small team, our ambitions are global, and our commitment to excellence drives everything we do."
 intro: 
-  - excerpt: "At Ziry Technology, we are your trusted partner in navigating the ever-evolving digital landscape. As a dedicated technology consulting company, we empower businesses, communities, and individuals through innovative solutions, education, and engagement. Though we are a small team, our ambitions are global, and our commitment to excellence drives everything we do."
+  - excerpt: 'At Ziry Technology, we are your trusted partner in navigating the ever-evolving digital landscape. As a dedicated technology consulting company, we empower businesses, communities, and individuals through innovative solutions, education, and engagement. Though we are a small team, our ambitions are global, and our commitment to excellence drives everything we do.'
+
 
 feature_row:
   - image_path: /assets/images/image3.png
@@ -38,7 +39,7 @@ feature_row2:
   - image_path: /assets/images/image2.png
     alt: "Customized Technology Solutions"
     title: "Customized Technology Solutions"
-    excerpt: "Every business is unique. We deliver tailored consulting services to meet your specific needs, whether it is cloud integration, network optimization, or IT strategy development."
+    excerpt: 'Every business is unique. We deliver tailored consulting services to meet your specific needs, whether it is cloud integration, network optimization, or IT strategy development. `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -47,7 +48,7 @@ feature_row3:
   - image_path: /assets/images/image3.png
     alt: "Why Choose Ziry Technology?"
     title: "Why Choose Ziry Technology?"
-    excerpt: "Our small but dedicated team ensures personalized attention and solutions tailored to your needs."
+    excerpt: 'Our small but dedicated team ensures personalized attention and solutions tailored to your needs. `type="right"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -56,7 +57,7 @@ feature_row4:
   - image_path: /assets/images/image2.png
     alt: "Focus on Education and Awareness"
     title: "Focus on Education and Awareness"
-    excerpt: "We’re passionate about equipping individuals and organizations with the knowledge to thrive in a connected world."
+    excerpt: 'We’re passionate about equipping individuals and organizations with the knowledge to thrive in a connected world. `type="center"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
