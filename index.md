@@ -23,9 +23,9 @@ feature_row:
     alt: "Community Education: Smartphone Safety"
     title: "Community Education: Smartphone Safety"
     excerpt: "Empowering parents and guardians to safeguard their children in the digital world. Our workshops and resources offer practical strategies to promote safe and responsible smartphone usage."
-    url: "/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    #url: "/"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
   
   - image_path: /assets/images/community-engagement-initiatives.png
     title: "Community Engagement Initiatives"
@@ -36,27 +36,27 @@ feature_row2:
     alt: "Customized Technology Solutions"
     title: "Customized Technology Solutions"
     excerpt: "Every business is unique. We deliver tailored consulting services to meet your specific needs, whether it is cloud integration, network optimization, or IT strategy development."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
 
 feature_row3:
   - image_path: /assets/images/why-choose-zirytech.png
     alt: "Why Choose ZiryTech?"
     title: "Why Choose ZiryTech?"
     excerpt: "Our small but dedicated team ensures personalized attention and solutions tailored to your needs."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
 
 feature_row4:
   - image_path: /assets/images/focus-on-education-and-awareness.png
     alt: "Focus on Education and Awareness"
     title: "Focus on Education and Awareness"
     excerpt: "We’re passionate about equipping individuals and organizations with the knowledge to thrive in a connected world."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
 ---
 
 {% include feature_row %}

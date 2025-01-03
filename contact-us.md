@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact Us"
 layout: splash
 header:
   overlay_color: "#000"
@@ -97,7 +97,6 @@ Ready to advance your digital journey? Explore our services or schedule a consul
     <div class='wf_customCheckMark'></div>
   </div>
   <span id='wf_splash_info'></span>
-  </p>
 </div>
 <form id='webform6578077000000497819' name=WebToLeads6578077000000497819 accept-charset='UTF-8'>
  <input type='text' style='display:none;' name='xnQsjsdp' value='207950cb1436f8d5475274096bb91c0d0d244740504f8b0a1d14b33f2b33db39'>
