@@ -1,8 +1,9 @@
 # main links
 main:
-  - title: "Services"
-    url: /
-  - title: "About"
-    url: /
-  - title: "Contact"
-    url: /
+  - title: "Our Services"
+    url: ./our-services/
+  - title: "About Us"
+    url: ./about-us/
+  - title: "Contact Us"
+    url: ./contact-us/
+    
